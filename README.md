@@ -144,11 +144,3 @@ Repository containing SQL study notes and practical examples.
 
 ✨ Continuously learning and open to opportunities in **Data Analytics**.
 
----
-
-### 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liasouzaadv&show_icons=true&theme=dark)
-
----
-
-✨ Em constante aprendizado, com foco em oportunidades na área de **Análise de Dados**.
